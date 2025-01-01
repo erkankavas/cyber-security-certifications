@@ -8,3 +8,10 @@ A comprehensive guide to cybersecurity certifications, covering essential detail
 - **Popular Certifications:** Key details about CISSP, CEH, CompTIA Security+, and more.
 - **Resources:** Study materials, practice tests, and official certification websites.
 - **Roadmap:** A clear path for aspiring cybersecurity professionals.
+
+## Starting Point
+- Microsoft Microsoft Cybersecurity Analyst Professional Certificate
+- Google Google Cybersecurity Professional Certificate
+- Introduction to Cyber Security Specialization (New York University)
+- Cybersecurity Fundamentals Specialization (IBM)
+- IT Fundamentals for Cybersecurity Specialization (IBM)
