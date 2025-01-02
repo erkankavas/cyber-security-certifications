@@ -11,7 +11,16 @@ A comprehensive guide to cybersecurity certifications, covering essential detail
 
 ## Starting Point
 - Microsoft Microsoft Cybersecurity Analyst Professional Certificate
+  https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst
+  
 - Google Google Cybersecurity Professional Certificate
+  https://www.coursera.org/professional-certificates/google-cybersecurity
+  
 - Introduction to Cyber Security Specialization (New York University)
+  https://www.coursera.org/specializations/intro-cyber-security
+  
 - Cybersecurity Fundamentals Specialization (IBM)
+  https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst
+  
 - IT Fundamentals for Cybersecurity Specialization (IBM)
+  https://www.coursera.org/specializations/it-fundamentals-cybersecurity
