@@ -24,3 +24,8 @@ A comprehensive guide to cybersecurity certifications, covering essential detail
   
 - IT Fundamentals for Cybersecurity Specialization (IBM)
   https://www.coursera.org/specializations/it-fundamentals-cybersecurity
+
+## Foundational
+
+- CompTIA IT Fundamentals (newly CompTIA Tech+)
+  https://www.comptia.org/certifications/tech
