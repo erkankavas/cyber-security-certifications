@@ -29,3 +29,5 @@ A comprehensive guide to cybersecurity certifications, covering essential detail
 
 - CompTIA IT Fundamentals (newly CompTIA Tech+)
   https://www.comptia.org/certifications/tech
+- CompTIA A+
+  https://www.comptia.org/certifications/a
