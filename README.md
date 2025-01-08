@@ -33,3 +33,5 @@ A comprehensive guide to cybersecurity certifications, covering essential detail
   https://www.comptia.org/certifications/a
 - CompTIA Network+
   https://www.comptia.org/certifications/network
+- CompTIA Security+
+  https://www.comptia.org/certifications/security
