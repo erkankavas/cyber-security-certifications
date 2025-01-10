@@ -38,3 +38,6 @@ A comprehensive guide to cybersecurity certifications, covering essential detail
 
 ## Splunk SIEM
 
+- Splunk Core Certified User
+  https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-user.html
+
