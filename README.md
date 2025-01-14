@@ -47,3 +47,6 @@ A comprehensive guide to cybersecurity certifications, covering essential detail
 - Splunk Core Certified Advanced Power User
   https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-advanced-power-user.html
 
+- Splunk Cloud Certified Admin
+  https://www.splunk.com/en_us/training/certification-track/splunk-cloud-certified-admin.html
+
