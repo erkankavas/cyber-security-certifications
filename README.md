@@ -50,3 +50,6 @@ A comprehensive guide to cybersecurity certifications, covering essential detail
 - Splunk Cloud Certified Admin
   https://www.splunk.com/en_us/training/certification-track/splunk-cloud-certified-admin.html
 
+- Splunk Enterprise Certified Admin
+  https://www.splunk.com/en_us/training/certification-track/splunk-enterprise-certified-admin.html
+
