@@ -53,3 +53,6 @@ A comprehensive guide to cybersecurity certifications, covering essential detail
 - Splunk Enterprise Certified Admin
   https://www.splunk.com/en_us/training/certification-track/splunk-enterprise-certified-admin.html
 
+- Splunk Enterprise Certified Architect
+  https://www.splunk.com/en_us/training/certification-track/splunk-enterprise-certified-architect.html
+
